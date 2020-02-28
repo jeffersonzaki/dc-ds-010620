@@ -2,9 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.WarmUps/LinearRegression/Data/bottle.csv
+#.WarmUps/LinearRegression/Data/bottle.csv
+# WarmUps/LinearRegression/Data/bottle.csv
 # C extensions
 *.so
+WarmUps/LinearRegression/Data/bottle.csv
 
 # Distribution / packaging
 .Python
