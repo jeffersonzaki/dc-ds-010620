@@ -10,6 +10,7 @@ __pycache__/
 *.so
 WarmUps/LinearRegression/Data/bottle.csv
 dc_ds_instacart_clustering_case_study/data
+~/.aws/credentials
 =======
 
 # C extensions
